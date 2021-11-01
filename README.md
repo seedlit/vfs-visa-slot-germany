@@ -6,7 +6,7 @@ If there are any, send a call and a message of the format:
 
 ## Why
 If you are here, you already know the hassle of booking a visa slot using VFS website. <br/>
-I got way too much time in my life, so instead to destroying my sleep, I created this script.
+I got way too much time in my life, so instead to destroying my sleep looking for slots every 30 minutes, I created this script.
 
 ## Usage
 Step 1: Clone the repo: `git clone https://github.com/seedlit/vfs-visa-slot-germany.git` <br/>
